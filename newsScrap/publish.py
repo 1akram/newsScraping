@@ -1,0 +1,6 @@
+﻿import alkhaber
+import echoroukonline
+pageid='100123456789012'
+accessToken=' EAAN3FemZBIUEBAN7zTWRIcrAsnivJzXHrBvPQSNPZBHRqvuGXSVmRqyHvSusZBYpwBaYMPCPAUMF7CGXZAv9KfIWswYqlgwCZAxGKD7JcriozwuWJsx8iJB2d02AM638WaI0lDT3WG9wxtFGDAYV1BwELFZA87kBaXX0mJzXHrBvPQSNPZBHRqvuGXSVmRqyHvSusZBYpwBaYMPCPAUMF7CGXZAv9KfIWswYqlgwCZAxGKD7JcriozwuWJsx8'
+alkhaber.publishContent(pageid, accessToken)
+echoroukonline.publishContent(pageid,accessToken)   
